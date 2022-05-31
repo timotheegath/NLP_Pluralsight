@@ -1,6 +1,21 @@
 # NLP_Pluralsight
 
-## Needed NLTK Packages
+
+### Built with
+
+* [nltk](https://www.nltk.org/)
+
+
+## Getting started
+
+### Prerequisites
+
+* pip
+  ```sh
+  pip install nltk
+  ```
+
+### Needed NLTK Packages
 Run the following NLTK commands in Python to download the needed packages for main.py: 
 * nltk.download('punkt')
 * nltk.download('stopwords')
