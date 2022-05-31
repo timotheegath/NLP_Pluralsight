@@ -17,20 +17,18 @@
 
 ### Needed NLTK Packages
 Run the following NLTK commands in Python to download the needed packages for main.py: 
-python```import nltk```
- ```shell 
+
+```python
+import nltk
+
 nltk.download('punkt')
-```
-```shell
+
 nltk.download('stopwords')
-```
-```shell 
+
 nltk.download('averaged_perceptron_tagger')
-```
-```shell
+
 nltk.download('wordnet')
-```
-```shell
+
 nltk.download('omw-1.4')
 ```
 
